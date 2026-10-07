@@ -1,0 +1,6 @@
+{
+  "name": "Saba Beauty Salon - Luxury Salon in Garhi Shahu, Lahore",
+  "description": "Modern luxury beauty salon in Garhi Shahu, Lahore offering bridal makeup, party makeup, hair styling, hydra facials, keratin treatments, and manicures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
